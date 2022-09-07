@@ -1,0 +1,18 @@
+
+
+.in{
+	color: whitesmoke;
+	text-align: left;
+
+}
+.parr{
+	color:rgb(190, 203, 213);
+	text-align: left;
+}
+li{
+	color:rgb(30, 43, 53);
+	text-align: left;
+	font: italic small-caps bolder 20px Roboto, sans-serif;
+}
+img{
+}
